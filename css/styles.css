@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 200%;
+}
+
+h1{
+  margin-top: 0;
+  font-family: "Sacramento",cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2,h3{
+  color: #66BFBF;
+}
+
+.block1para{
+  font-size:2.5rem;
+  line-height: 2;
+  color: #66BFBF;
+}
+
+.topcloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.bottomcloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.Topc{
+  background-color: #E4f9f5;
+  padding: 20px;
+  padding-top: 200px;
+  position: relative;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottomc{
+
+}
+
+.btn{
+  background-color: lightblue;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  font-size: 30px;
+  line-height: 2;
+}
+
+.Web{
+  height: 100%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Hack{
+  height: 100%;
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  font-size: 30px;
+}
+
+.bottom-container{
+  font-size: 30px;
+  background-color: #66BFBF;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.myButton {
+	box-shadow: 0 0 0 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
